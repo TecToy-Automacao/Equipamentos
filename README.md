@@ -1,2 +1,2 @@
 # Equipamentos
-Drivers e Manuais para os equipamentos da TecToy Automação
+ Drivers, Manuais e Utilitários dos equipamentos da TecToy Automação 
